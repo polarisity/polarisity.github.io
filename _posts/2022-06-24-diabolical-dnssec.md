@@ -11,11 +11,11 @@ Because its a hassle to configure and use, i’ve decided to do away with it. Ho
 
 The easiest way would be to use the [dig tool](https://toolbox.googleapps.com/apps/dig/#DS/). We should be able to identify the presence of DNSSEC by looking at the DS parameter. [This guide](https://servebolt.com/help/article/how-to-migrate-name-servers-for-dns-zones-with-dnssec-active/) provides more details.
 
-![]({{ site.baseurl }}/images/blog/gdig.png)
+![]({{ site.baseurl }}/images/blog/2022-06-24-gdig.png)
 
 Not immediately intuitive, but I imagine an experienced professional would’ve been able to resolve this in a heartbeat. Now I’ll have to wait for my configurations to propagate.
 
-![]({{ site.baseurl }}/images/blog/deactivate-dnssec.png)
+![]({{ site.baseurl }}/images/blog/2022-06-24-deactivate-dnssec.png)
 
 [Set up DNSSEC Security](https://support.google.com/domains/answer/6387342?hl=en#zippy=%2Cif-you-use-google-domains-name-servers)
 {: style="text-align: center"}
