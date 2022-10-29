@@ -6,10 +6,10 @@
 name: Oceanlion
 
 # Short bio or description (displayed in the header)
-description: A blog
+# description: A blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/jekyll-logo.png
+avatar: /images/seal.png
 
 #
 # Flags below are optional
