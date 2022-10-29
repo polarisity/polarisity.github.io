@@ -14,7 +14,7 @@ avatar: /images/seal.png
 #
 # Flags below are optional
 #
-# remote_theme: JustGoodThemes/Scriptor-Jekyll-Theme
+remote_theme: JustGoodThemes/Scriptor-Jekyll-Theme
 
 # Includes an icon in the footer for each username you enter
 # footer-links:

@@ -3,7 +3,7 @@ title: "Diabolical DNSSEC"
 date: 2022-06-24
 ---
 
-In my [previous post]({% post_url 2022-06-23-setting-up-domain-with-gcp.md %}), we identified issues related to DNSSEC.
+In my [previous post]({% post_url /_posts/2022-06-23-setting-up-domain-with-gcp.md %}), we identified issues related to DNSSEC.
 
 Google’s documentation explains it well [here](https://cloud.google.com/dns/docs/dnssec). Essentially it authenticates responses to domain name lookups so that these responses cannot be spoofed by other servers.
 
