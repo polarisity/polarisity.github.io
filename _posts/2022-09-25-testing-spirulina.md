@@ -15,4 +15,4 @@ Further investigation is required to determine the root cause of lead being pres
 ![]({{ site.baseurl }}/images/blog/2022-08-07-s-farm-lanes.png)
 
 SFA Spirulina classification
-{: style="text-align: center; color: lightgrey"}
+{: caption}
