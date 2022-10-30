@@ -18,4 +18,4 @@ Not immediately intuitive, but I imagine an experienced professional would’ve 
 ![]({{ site.baseurl }}/images/blog/2022-06-24-deactivate-dnssec.png)
 
 [Set up DNSSEC Security](https://support.google.com/domains/answer/6387342?hl=en#zippy=%2Cif-you-use-google-domains-name-servers)
-{: style="text-align: center"}
+{: .caption}

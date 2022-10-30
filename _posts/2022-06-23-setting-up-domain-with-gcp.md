@@ -10,7 +10,7 @@ I purchased a domain on Cloud Domains. Following which I had to link my domain o
 ![]({{ site.baseurl }}/images/blog/2022-06-23-how-domain-work.png)
 
 [wpbeginner](https://www.wpbeginner.com/beginners-guide/beginners-guide-what-is-a-domain-name-and-how-do-domains-work/)
-{: style="text-align: center"}
+{: .caption}
 
 I did not realise that domains took a while to register. In fact, after a day, I am still unable to access it via my home ISP, and I’m only able to access it through my mobile carrier.
 
