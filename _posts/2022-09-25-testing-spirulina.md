@@ -10,9 +10,9 @@ I purchased a simple test kit and obtained the results below. The sample from my
 Further investigation is required to determine the root cause of lead being present. However, it does look like the harvested Spirulina is suitable for consumption.
 
 | ![]({{ site.baseurl }}/images/blog/2022-09-25-test-strip.png) | ![]({{ site.baseurl }}/images/blog/2022-09-25-test-strip-harvested.png) | ![]({{ site.baseurl }}/images/blog/2022-09-25-test-strip-reference.png) |
-| Tap Water / Spirulina Culture | Harvested Spirulina Powder dissolved in water | Reference |
+| Tap Water / Spirulina Culture{: .caption} | Harvested Spirulina Powder dissolved in water{: .caption} | Reference{: .caption} |
 
-![]({{ site.baseurl }}/images/blog/2022-08-07-s-farm-lanes.png)
+![]({{ site.baseurl }}/images/blog/2022-09-25-sfa-classification.png)
 
 SFA Spirulina classification
-{: caption}
+{: .caption}
