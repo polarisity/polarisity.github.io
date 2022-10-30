@@ -21,39 +21,39 @@ My setup is humble. A storage box with a lighting and air source.
 ![]({{ site.baseurl }}/images/blog/2022-08-07-s-farm-home1.png)
 
 Spirulina Tank 60L
-{: style="text-align: center; color: lightgrey"}
+{: caption}
 
 To harvest the Spirulina, I first use a series of filters, ending with a 30 micron nylon film which is sufficient to trap the Spirulina and easy to clean. My initial experiments involved using a 200 micron silkscreen, which was too large to trap the algae. I also tried coffee filters, which were extremely difficult to use as the Spirulina would get trapped in the fibres, leading to a low yield.
 
 ![]({{ site.baseurl }}/images/blog/2022-08-07-s-farm-home2.png)
 
 A sieve acts as a first stage filter to trap larger pieces of dirt or debris
-{: style="text-align: center; color: lightgrey"}
+{: caption}
 
 ![]({{ site.baseurl }}/images/blog/2022-08-07-s-farm-home3.png)
 
 A water pump simplifies Spirulina extrcation
-{: style="text-align: center; color: lightgrey"}
+{: caption}
 
 ![]({{ site.baseurl }}/images/blog/2022-08-07-s-farm-home4.png)
 
 Chunks filtered out through larger sieve
-{: style="text-align: center; color: lightgrey"}
+{: caption}
 
 ![]({{ site.baseurl }}/images/blog/2022-08-07-s-farm-home5.png)
 
 Rinsing with saltwater for preservation
-{: style="text-align: center; color: lightgrey"}
+{: caption}
 
 ![]({{ site.baseurl }}/images/blog/2022-08-07-s-farm-home6.png)
 
 Rinsed Spirulina
-{: style="text-align: center; color: lightgrey"}
+{: caption}
 
 ![]({{ site.baseurl }}/images/blog/2022-08-07-s-farm-home7.png)
 ![]({{ site.baseurl }}/images/blog/2022-08-07-s-farm-home8.png)
 
 Storing in a freezer
-{: style="text-align: center; color: lightgrey"}
+{: caption}
 
 Now that the Spirulina is extracted, I will need to figure out a way to dehydrate and powderise the product.
